@@ -1,6 +1,0 @@
-Integrantes: Melissa Foronda, Walter Stephano Mejía
-
-link colab: https://colab.research.google.com/drive/1hwIgjdB7dHsGRjWMJvXE0OL0sxSGe_f3?usp=sharing
-link repo: https://github.com/foronmeli/Analisis-predictivo-datos.git
-
-Profe esta mejor en el repo que se ve todo y ya esta el dataset cargado, pero también tenemos el colab por si algo
